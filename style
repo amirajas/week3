@@ -1,0 +1,15 @@
+p {
+  color: #780b64;
+}
+
+h3 {
+    color: #24539e;
+}
+
+h1{
+  color: #9b53a6;
+}
+
+h2{
+  color: #e09c6c;
+}
