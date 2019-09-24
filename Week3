@@ -1,25 +1,30 @@
 <!DOCTYPE html>
 
+<html>
+
 <head>
   <title> "Amira's Cats" </title>
+  <meta charset="utf-8">
+  <meta name="description" content="my kitties page">
+  <meta author="author" content="Amira">
   <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
   <h1> My Cats </h1>
-    <ul>
-      <li> Charlie </li>
-      <li> Risu </li>
-      <li> Socks (but she lives with my mom) </li>
-    </ul>
+  <ul>
+    <li> Charlie </li>
+    <li> Risu </li>
+    <li> Socks (but she lives with my mom) </li>
+  </ul>
 
   <h2> Meet my cats </h2>
-    <br>
+  <br>
   <h3> Charlie </h3>
-    <br>
-  <img src= "Charlie/charlielaundry.jpg" width="378" height="504"/>
-  <img src="Charlie/charliebed.jpg" width="504" height="378"/>
-    <br>
+  <br>
+  <img src="Charlie/charlielaundry.jpg" width="378" height="504" />
+  <img src="Charlie/charliebed.jpg" width="504" height="378" />
+  <br>
   <p>
     <strong>Charlie</strong> is 4 years old. I got him when I was 18 and he was 4 months old.
     He's a very friendly cat and loves to socialize. He <em>loves</em> being brushed
@@ -27,12 +32,12 @@
     behave great but I put up with it because he's the best cuddler in town.
   </p>
 
-    <br>
+  <br>
   <h3> Risu </h3>
-    <br>
-  <img src="Risu/risufluff.jpg" width="378" height="504"/>
-  <img src="Risu/risumodel.jpg" width="504" height="378"/>
-    <br>
+  <br>
+  <img src="Risu/risufluff.jpg" width="378" height="504" />
+  <img src="Risu/risumodel.jpg" width="504" height="378" />
+  <br>
   <p>
     <strong>Risu</strong> is 2 years old. I got her when I was 19(?) and she was 4 months old.
     She's more shy than Charlie but she's still really sweet and friendly. She
@@ -42,10 +47,10 @@
   </p>
 
   <h3> Socks </h3>
-    <br>
-  <img src= "Socks/socksit.jpg" width="378" height="504"/>
-  <img src="Socks/sockbed.jpg" width="504" height="378"/>
-    <br>
+  <br>
+  <img src="Socks/socksit.jpg" width="378" height="504" />
+  <img src="Socks/sockbed.jpg" width="504" height="378" />
+  <br>
   <p>
     <strong>Socks</strong> is about 13 years old. My mom got Socks about three years ago when Socks
     was 10 years old. Socks is a sweet old lady who has high standards. She <em>loves</em>
@@ -55,9 +60,14 @@
     lady cat I know.
   </p>
 
-  <a href= "https://www.instagram.com/asideof60beans/"> Follow my cats' instagram! </a>
+  <!--hey beech-->
+  <a href="https://www.instagram.com/asideof60beans/"> Follow my cats' instagram! </a>
 
   <h3> Here's my cats being silly </h3>
 
-  <img src= "Charlie/charliebox.jpg" width="378" height="504"/>
-  <img src= "Socks/socktongue.jpg" width="378" height="504"/>
+  <img src="Charlie/charliebox.jpg" width="378" height="504" />
+  <img src="Socks/socktongue.jpg" width="378" height="504" />
+
+</body>
+
+</html>
